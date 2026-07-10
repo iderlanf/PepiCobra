@@ -141,3 +141,12 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Capacitor android/ios folder artifacts
+/android/app/build/
+/android/app/src/main/assets/public/
+/ios/App/App/public/
+
+# Cordova/Capacitor build artifacts
+/www/
+/dist/
